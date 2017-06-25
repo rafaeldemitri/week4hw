@@ -1,0 +1,16 @@
+.rafaelImage {
+	height: 100px;
+	width: 100px;
+	margin-right: 2px;
+	margin-left: 2px;
+	align-content: center
+}
+
+.col-xs-6 {
+	align-content: center
+
+}
+
+.col-xs-8 {
+	align-content: center
+}
